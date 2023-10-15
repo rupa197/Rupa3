@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="whatever" parallel="Methods">
+	
+	
+	<test name="whatever">
+		<classes><class name="com.parallal"></class>  </classes>
+			</test>
+			
+			
+			
+	<test name="whatever">
+		<classes><class name="com.parallal2Test"></class>  </classes>	
+	</test>	
+	
+	
+	
+</suite>
